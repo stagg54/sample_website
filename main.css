@@ -1,0 +1,9 @@
+.nav-menu {
+    text-align: right
+}
+
+.nav-link {
+    margin: 0 0 0 10px;
+    text-decoration: none;
+    color: blue;
+}
